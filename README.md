@@ -15,6 +15,7 @@ Hello everyone! I'm Juan Antonio López Seguí, and seeing this repository is th
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![SEQUELIZE](https://img.shields.io/badge/sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
+![GRAPHQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Database technologies
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
