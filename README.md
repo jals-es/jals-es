@@ -7,11 +7,13 @@ Hello everyone! I'm Juan Antonio López Seguí, and seeing this repository is th
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## Frontend technologies, frameworks, platforms and libraries
-![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=Vue.Js&logoColor=white)
+![JQUERY](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+![ANGULAR](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![VUE](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=Vue.Js&logoColor=white)
+![REACT](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 
 ## Backend technologies, frameworks, platforms and libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,6 +23,7 @@ Hello everyone! I'm Juan Antonio López Seguí, and seeing this repository is th
 ![GRAPHQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)<br/>
 ![GOLANG](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![DJANGO](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ## Database technologies
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
